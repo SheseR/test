@@ -1,0 +1,33 @@
+﻿  SetPositionMode.cpp
+d:\compilator\oop\kursova\smartchess1_copy\smartchess\setpositionmode.cpp(159): warning C4018: '>' : signed/unsigned mismatch
+d:\compilator\oop\kursova\smartchess1_copy\smartchess\setpositionmode.cpp(209): warning C4018: '>' : signed/unsigned mismatch
+  RunGameMode.cpp
+d:\compilator\oop\kursova\smartchess1_copy\smartchess\rungamemode.cpp(107): warning C4018: '<' : signed/unsigned mismatch
+d:\compilator\oop\kursova\smartchess1_copy\smartchess\rungamemode.cpp(117): warning C4018: '<' : signed/unsigned mismatch
+d:\compilator\oop\kursova\smartchess1_copy\smartchess\rungamemode.cpp(253): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+          d:\compilator\oop\kursova\smartchess1_copy\smartchess\rungamemode.cpp(156) : definition of 'i' ignored
+          d:\compilator\oop\kursova\smartchess1_copy\smartchess\rungamemode.cpp(240) : definition of 'i' used
+d:\compilator\oop\kursova\smartchess1_copy\smartchess\rungamemode.cpp(385): warning C4018: '<' : signed/unsigned mismatch
+  Rook.cpp
+  Queen.cpp
+  Piece.cpp
+  Pawn.cpp
+  MenuMode.cpp
+  main.cpp
+  LocalGame.cpp
+  ListsPieces.cpp
+d:\compilator\oop\kursova\smartchess1_copy\smartchess\listspieces.cpp(151): warning C4018: '<' : signed/unsigned mismatch
+d:\compilator\oop\kursova\smartchess1_copy\smartchess\listspieces.cpp(158): warning C4018: '<' : signed/unsigned mismatch
+d:\compilator\oop\kursova\smartchess1_copy\smartchess\listspieces.cpp(221): warning C4172: returning address of local variable or temporary
+d:\compilator\oop\kursova\smartchess1_copy\smartchess\listspieces.cpp(223): warning C4172: returning address of local variable or temporary
+  ListMove.cpp
+  Knight.cpp
+  King.cpp
+  GameMode.cpp
+  BoardMain.cpp
+  Bishop.cpp
+  AllegroWrap.cpp
+d:\compilator\oop\kursova\smartchess1_copy\smartchess\allegrowrap.cpp(282): warning C4018: '<' : signed/unsigned mismatch
+  Generating Code...
+d:\compilator\oop\kursova\smartchess1_copy\smartchess\gamemode.cpp(96): warning C4715: 'CGameMode::getButton' : not all control paths return a value
+  smartchess.vcxproj -> D:\compilator\OOP\kursova\smartchess1_copy\Debug\smartchess.exe

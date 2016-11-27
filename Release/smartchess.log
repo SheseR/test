@@ -1,0 +1,5 @@
+﻿  MenuMode.cpp
+  Generating code
+d:\compilator\oop\kursova\smartchess1_copy\smartchess\gamemode.cpp(96): warning C4715: 'CGameMode::getButton' : not all control paths return a value
+  Finished generating code
+  smartchess.vcxproj -> D:\compilator\OOP\kursova\smartchess1_copy\Release\smartchess.exe
